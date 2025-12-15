@@ -57,11 +57,11 @@ PATTERN_INPUT='\$_(GET|POST|REQUEST|COOKIE|SERVER)'
 function print_banner() {
     clear
     echo -e "${CYAN}${BOLD}"
-    echo "    __  __            _ _             "
-    echo "   |  \/  | ___ _ __ (_) |_ ___  _ __ "
-    echo "   | |\/| |/ _ \ '_ \| | __/ _ \| '__|"
-    echo "   | |  | |  __/ | | | | || (_) | |   "
-    echo "   |_|  |_|\___|_| |_|_|\__\___/|_|   "
+    echo "  __  __  ___  _   _ ___ _____ ___  ____  "
+    echo " |  \/  |/ _ \| \ | |_ _|_   _/ _ \|  _ \ "
+    echo " | |\/| | | | |  \| || |  | || | | | |_) |"
+    echo " | |  | | |_| | |\  || |  | || |_| |  _ < "
+    echo " |_|  |_|\___/|_| \_|___| |_| \___/|_| \_\\"
     echo -e "       WebShell Monitor v2.1${RESET}"
     echo -e "${WHITE}    https://github.com/yasinkuyu/monitor.sh${RESET}"
     echo "----------------------------------------"
